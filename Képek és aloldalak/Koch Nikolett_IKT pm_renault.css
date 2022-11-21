@@ -1,10 +1,20 @@
-#banner {
-    height: 400px;
-    background-image: url(./Renault_fooldal.jpg);
-    align-self: center;
-    vertical-align: bottom;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    border-bottom: solid #d8d653;
+#tartalom{
+        width: 80%;
+        align-self: center;
+        margin: 0 auto;}
 
-}
+.Renault{
+    width: 100px;
+    float: right;
+    background-size: 100px 100px;
+    clear: both;   
+    box-shadow: none; }
+
+    #banner {
+        width: 600px;
+        align-self: center;
+        vertical-align: bottom;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        border-bottom: solid #70423a;}
+
