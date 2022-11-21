@@ -1,4 +1,10 @@
-head {
-    background-image: url(./Renault.jpg)
+#banner {
+    height: 400px;
+    background-image: url(./Renault_fooldal.jpg);
+    align-self: center;
+    vertical-align: bottom;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-bottom: solid #d8d653;
 
 }
