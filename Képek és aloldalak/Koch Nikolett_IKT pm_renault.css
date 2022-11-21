@@ -1,10 +1,11 @@
-#body{
+body{
     margin: 0 0 0 0;
-    background-color: #131205;
-    color: #131205; }
+    background-color: #c5c4c2;
+    color: #131205;
+}
 
 #tartalom{
-    width: 800px;
+    width: 80%;
     align-self: center;
     margin: 0 auto;
 }
@@ -29,3 +30,28 @@
     text-align: right;
     margin-bottom: 50px;
     font: italic; }
+
+table{
+        width: 100%;
+        align: center;
+        display: block;
+        position: relative;
+        margin: 0 auto;
+        padding: 10px;}
+
+
+thead {
+    width: 100%;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+#tesztvez {
+    width: 100%;
+    display: block;
+    text-align: left;
+    position: center;
+}
