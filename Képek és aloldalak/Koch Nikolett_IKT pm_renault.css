@@ -39,19 +39,18 @@ table{
         margin: 0 auto;
         padding: 10px;}
 
-
-thead {
-    width: 100%;
-    display: block;
-    position: relative;
-    margin: 0 auto;
-    text-align: center;
-}
-
-
 #tesztvez {
     width: 100%;
-    display: block;
+    display: auto;
+    text-align: right;
+    position: center;
+}
+
+#hivatalos {
+    width: 100%;
+    display: auto;
     text-align: left;
     position: center;
+
+
 }
