@@ -54,3 +54,63 @@ table{
 
 
 }
+
+#clio{
+    margin: 0 0 0 0;
+    background-color: #c5c4c2;
+    color: #131205;
+
+}
+
+#cliotartalom{
+    width: 80%;
+    align-self: center;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#cliot{
+    width: 60%;
+    align: center;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 10px;}
+
+
+
+#fc{
+    width: 80%;
+    text-align: right;
+    margin-bottom: 50px;
+    font: italic; }
+
+#cinfo{
+    width: 60%;
+    align: center;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;}
+
+#cliot2{
+    width: 60%;
+    align: center;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 10px;}
+
+#tesztvezclio{
+    width: 50%;
+    display: auto;
+    text-align: center;
+    position: center;
+}
+
+
+
+
+
+
