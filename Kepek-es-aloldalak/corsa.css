@@ -1,0 +1,119 @@
+body{
+    background:white;
+}
+h1{
+    width: 1500px;
+    font-size: 25px;
+    text-align: center ;
+    background-color: yellow;
+    margin-bottom: 5px;
+    
+}
+th{
+    background: white;
+    color:black;
+}
+table ,th ,td {
+    
+display :block
+
+margin: 0px;
+border: solid white 1px;
+border-collapse:collapse;
+margin-bottom: 5px;
+font-family:Arial
+font-size:3px;
+height: 30px;
+text-align:center
+}
+th{
+    text-align: left;
+    background-color: black;
+    color: white;
+
+}
+td{
+    text-align: center;
+}
+table{
+    width: 1500px;
+}
+td#a1{
+    width: 35px; 
+    writing-mode:vertical-rl;
+    transform: rotate(-180deg);
+    background-color: black;
+    color: white;
+    border: solid white 1px;
+    border-collapse:collapse;
+    font-weight: bold;
+}
+td#a2{
+    width: 400px;
+    font-decoration: bolder ;
+    background-color: rgba(128, 128, 128, 0.900);
+    font-weight: bold;
+    color: white; 
+}
+td#a3{
+    width:100px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+
+}
+td#a4{
+    width:100px;
+    background-color: black;
+    color: white;  
+    font-weight: bold;  
+}
+td#a5{
+    width:100px;
+    background-color: black;
+    color: white;  
+    font-weight: bold;  
+}
+td#a6{
+    background-color: rgb(140, 140, 140);
+    font-weight: bold;
+    color: white; 
+
+}
+td#a7{
+    background-color: rgb(140, 140, 140);
+    font-weight: bold;
+    color: white; 
+}
+td#a8{
+    background-color: rgb(190, 190, 190);
+    color:black;
+
+}
+td#a9{
+    background-color:rgb(255, 255, 255);
+    color:black;
+
+}
+td#a10{
+    background-color: rgb(190, 190, 190);
+    color:black;
+    border-bottom: 1px;
+    border-color:white;
+}
+td#a11{
+    background-color:rgb(255, 255, 255);
+    color:black;
+
+}
+
+td#a13{
+    background-color:rgb(220, 220, 220);
+    color:white;
+    text-align:center
+}
+td#a14{
+    background-color:rgb(220, 220, 220);
+    color:#fff;
+
+}
