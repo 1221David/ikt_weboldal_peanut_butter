@@ -1,0 +1,38 @@
+body{
+    background:white;
+}
+h1{
+    width: 796px;
+    font-size: 20px;
+    text-align: center ;
+    background-color: yellow;
+    margin-bottom: 5px;
+    
+}
+th{
+    background: white;
+    color:black;
+}
+table ,th ,td {
+    
+display :block
+
+margin: 0px;
+border: solid black 1px;
+border-collapse:collapse;
+}
+th{
+    text-align: left;
+}
+td{
+    text-align: center;
+}
+table{
+    width: 796px;
+}
+td#a0{
+    width: 100px; 
+}
+td#a1{
+    font-decoration: bolder ;
+}
